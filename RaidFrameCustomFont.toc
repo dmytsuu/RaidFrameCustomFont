@@ -1,0 +1,7 @@
+## Interface: 80100
+## Title: RaidFrameCustomFont
+## Notes: Changes raid frame font
+## Version: 0.2
+## Author: Dmytsuu aka Firevanburn
+
+RaidFrameCustomFont.lua
